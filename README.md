@@ -44,6 +44,6 @@ Currently, I'm expanding my skills in Python, Automation, Data Analysis, and Art
 
 - 📍 Toronto, Ontario, Canada
 
----
+
 
 ⭐ Thanks for visiting my GitHub profile!
